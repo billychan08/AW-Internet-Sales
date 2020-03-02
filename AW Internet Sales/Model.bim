@@ -291,6 +291,10 @@
           {
             "name": "DaysInCurrentQuarter",
             "expression": " COUNTROWS(DATESBETWEEN(DimDate[Date],STARTOFQUARTER(LASTDATE(DimDate[Date])),ENDOFQUARTER(DimDate[Date])))"
+          },
+          {
+            "name": "testing GIT",
+            "expression": " \"test\""
           }
         ],
         "hierarchies": [
