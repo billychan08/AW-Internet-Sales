@@ -294,7 +294,7 @@
           },
           {
             "name": "testing GIT",
-            "expression": " \"test2\""
+            "expression": " \"test\""
           }
         ],
         "hierarchies": [
